@@ -94,6 +94,9 @@ function App() {
           <p className={style.count}>{`You have ${todos.length} todos`}</p>
         )}
       </div>
+      <p className=" flex justify-center mt-20 text-stone-700 font-bold">
+        Ashfak Hossain Evan - "American International University - Banglaesh"
+      </p>
     </div>
   );
 }
